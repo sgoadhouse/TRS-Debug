@@ -230,32 +230,32 @@ Path=UVaND-Libraries\Simulation UVaND\*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjTitle
-Value=Tip-Ring-Sleeve Pass Through
+Name=ProjAddress1
+Value=Charlottesville, VA. USA
 
 [Parameter2]
-Name=ProjRevision
-Value=v0_1
+Name=ProjAddress2
+Value=
 
 [Parameter3]
-Name=ProjOrganization2
-Value=
+Name=ProjEngineer
+Value=S. Goadhouse
 
 [Parameter4]
 Name=ProjOrganization1
 Value=University of Virginia
 
 [Parameter5]
-Name=ProjEngineer
-Value=S. Goadhouse
-
-[Parameter6]
-Name=ProjAddress2
+Name=ProjOrganization2
 Value=
 
+[Parameter6]
+Name=ProjRevision
+Value=v0_1
+
 [Parameter7]
-Name=ProjAddress1
-Value=Charlottesville, VA. USA
+Name=ProjTitle
+Value=Tip-Ring-Sleeve Pass Through
 
 [Configuration1]
 Name=Sources
@@ -753,36 +753,6 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Ansoft Neutral
-OutputName13=Ansoft Neutral (AutoPCB)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=HyperLynx
-OutputName14=HyperLynx (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=MathWorks
-OutputName15=MathWorks (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Orcad v7 Capture Design
-OutputName16=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=P-CAD ASCII
-OutputName17=P-CAD ASCII (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD V16 Schematic Design
-OutputName18=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1231,6 +1201,8 @@ Type162=1
 Type163=1
 Type164=1
 Type165=2
+Type166=2
+Type167=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
