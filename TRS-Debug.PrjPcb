@@ -219,7 +219,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=TOAHDUCD
 
 [Document11]
 DocumentPath=Constraints.xml
@@ -238,6 +238,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TRS-Debug\Design Rule Check - TRS-Debug.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=UVaND-Libraries\*.*
 IncludeSubFolders=0
@@ -247,30 +251,34 @@ Path=UVaND-Libraries\Simulation UVaND\*.*
 IncludeSubFolders=1
 
 [Parameter1]
+Name=ProjINPP
+Value=232
+
+[Parameter2]
 Name=ProjTitle
 Value=Tip-Ring-Sleeve Pass Through
 
-[Parameter2]
-Name=ProjRevision
-Value=v0_1
-
 [Parameter3]
-Name=ProjOrganization2
-Value=
+Name=ProjRevision
+Value=v1.0
 
 [Parameter4]
+Name=ProjOrganization2
+Value=INPP 232
+
+[Parameter5]
 Name=ProjOrganization1
 Value=University of Virginia
 
-[Parameter5]
+[Parameter6]
 Name=ProjEngineer
 Value=S. Goadhouse
 
-[Parameter6]
+[Parameter7]
 Name=ProjAddress2
 Value=
 
-[Parameter7]
+[Parameter8]
 Name=ProjAddress1
 Value=Charlottesville, VA. USA
 

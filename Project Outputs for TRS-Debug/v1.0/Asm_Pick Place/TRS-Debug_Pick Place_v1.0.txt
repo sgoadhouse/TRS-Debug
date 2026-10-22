@@ -1,0 +1,19 @@
+Altium Designer Pick and Place Locations
+C:\Users\sdg6h\Documents\Jaswal\GIT-TRS-Debug\Project Outputs for TRS-Debug\v1.0\Asm_Pick Place\TRS-Debug_Pick Place_v1.0.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       21/10/26
+Time:       19:59
+Revision:   a8bf1f877caf91fa3f7b596538ff48db83ee2c63
+Variant:    No variations
+Units used: mil
+
+Center-X(mil) Center-Y(mil) Comment   Description                                                                                            Designator Footprint     Layer    Rotation 
+750.000       299.213       DIFFPROBE "Differential Test Probe"                                                                              TP2        DIFFPROBE-2MM TopLayer 90       
+750.000       602.362       DIFFPROBE "Differential Test Probe"                                                                              TP1        DIFFPROBE-2MM TopLayer 90       
+259.842       299.213       "TRS, RA" "3.50mm (0.141, 1/8, Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Kinked Pin" J2         TH-CONN3A-TRS TopLayer 270      
+259.842       602.362       "TRS, RA" "3.50mm (0.141, 1/8, Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Kinked Pin" J1         TH-CONN3A-TRS TopLayer 270      
+1240.158      299.213       "TRS, RA" "3.50mm (0.141, 1/8, Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Kinked Pin" J4         TH-CONN3A-TRS TopLayer 90       
+1240.158      602.362       "TRS, RA" "3.50mm (0.141, 1/8, Mini Plug) - Headphone Phone Jack Stereo (3 Conductor, TRS) Connector Kinked Pin" J3         TH-CONN3A-TRS TopLayer 90       
